@@ -1,0 +1,7 @@
+python
+data processing
+data cleaning
+data visualization
+model selection
+fit
+predict
